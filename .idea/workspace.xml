@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71773d60-d39f-45c4-8f43-cd79a0b114ac" name="Changes" comment="" />
+    <list default="true" id="71773d60-d39f-45c4-8f43-cd79a0b114ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/CheckIfSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/RemoveDuplicatesFromSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/easy/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting_techniques/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting_techniques/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting_techniques/RecursiveBubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting_techniques/RecursiveInsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_hashing/CountFrequencyInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_hashing/CountFrequencyInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_hashing/HighestLowestFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_hashing/HighestLowestFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/AllDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_maths/AllDivisors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/ArmStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_maths/ArmStrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_maths/CountDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/HCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_maths/HCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_maths/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/ReverseANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_maths/ReverseANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patterns_for_logic_building/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns_for_logic_building/Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion_basics/PrintNTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion_basics/PrintNTimes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EFtbUIganceXNOhTee3iY8n8LI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +46,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;251f47&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromSorted">
+    <configuration name="CheckIfSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.easy.CheckIfSorted" />
+      <module name="Data Structures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.easy.LargestElement" />
+      <module name="Data Structures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting_techniques.RecursiveInsertionSort" />
+      <module name="Data Structures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting_techniques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesFromSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.easy.RemoveDuplicatesFromSorted" />
+      <module name="Data Structures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.easy.SecondLargestElement" />
+      <module name="Data Structures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RemoveDuplicatesFromSorted" />
+        <item itemvalue="Application.CheckIfSorted" />
+        <item itemvalue="Application.SecondLargestElement" />
+        <item itemvalue="Application.LargestElement" />
+        <item itemvalue="Application.RecursiveInsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +142,16 @@
       <updated>1662203232687</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
